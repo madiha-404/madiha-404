@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Currently working on:<br>MERN stack projects and improving my cybersecurity fundamentals.<br><br>🔹 🤝 Looking to collaborate on:<br>Full stack and beginner-friendly cybersecurity projects.<br><br>🔹 💬 Looking for help with:<br>Backend development and practical cybersecurity skills.<br><br>🔹 💡 Ask me about:<br>MERN stack, projects, and getting started in cybersecurity.<br><br>🔹 ⚡ Fun fact:<br>I enjoy building real-world projects and exploring how systems work behind the scenes.
+🌱 Currently working on:<br>MERN stack projects and improving my cybersecurity fundamentals.<br><br>🔹 🤝 Looking to collaborate on:<br>Full stack and beginner-friendly projects.<br><br>🔹 💬 Looking for help with:<br>Backend development and practical cybersecurity skills.<br><br>🔹 💡 Ask me about:<br>MERN stack, projects, and getting started in cybersecurity.<br><br>🔹 ⚡ Fun fact:<br>I enjoy building real-world projects and exploring how systems work behind the scenes.
 
 
 ## 🌐 Socials:
